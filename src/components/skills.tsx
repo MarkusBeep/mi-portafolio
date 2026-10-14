@@ -25,7 +25,7 @@ export const Skills = () => {
         {/* Contenido principal de la sección */}
         <div className="p-6 md:p-10">
           <div className="text-xs text-[#2e7d58] mb-4">
-            <span className="text-emerald-700">//</span> tecnologies
+            <span className="text-emerald-700">//</span> technologies
           </div>
 
           <h2 className="text-xl md:text-2xl font-semibold text-emerald-950 mb-6">

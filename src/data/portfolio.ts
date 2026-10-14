@@ -47,7 +47,7 @@ export const socialLinks = [
 export const personalData = {
   name: "Marcos Herrera",
   role: "Web Developer",
-  bio: "Specialized in WordPress/Elementor - Javascript.",
+  bio: "Specialized in WordPress/Elementor and JavaScript.",
   email: "marcoshl510@gmail.com",
   socials: {
     github: "https://github.com/MarkusBeep",
@@ -99,7 +99,7 @@ export const portfolioWebs: WebProject[] = [
   {
     title: "Carrozzini Studios",
     description:
-      "Professional Website developed in Wordpress with responsive design, strucure optimization and custom designing",
+      "Professional website developed in WordPress with responsive design, structure optimization and custom design",
     tags: ["WordPress", "Elementor"],
     link: "https://carrozzinistudios.com/",
     isProfessional: true,
@@ -107,7 +107,7 @@ export const portfolioWebs: WebProject[] = [
   {
     title: "Unidad Educativa Emanuel",
     description:
-      "Institutional web page for Unidad Educativa Emanuel, focused on the academic presentation",
+      "Institutional website for Unidad Educativa Emanuel, focused on its academic presentation",
     tags: ["WordPress", "Elementor"],
     link: "https://www.emanuel.edu.ec/",
     isProfessional: true,
@@ -115,7 +115,7 @@ export const portfolioWebs: WebProject[] = [
   {
     title: "Portafolio Web Dev",
     description:
-      "Personal Portfolio to show personal and professional projects",
+      "Personal portfolio showcasing personal and professional projects",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite"],
     github: "https://github.com",
     isProfessional: false,
@@ -124,7 +124,7 @@ export const portfolioWebs: WebProject[] = [
   {
     title: "Budget calculator",
     description:
-      "Budget tool to calculate shopping activites with IVA calculation percentages",
+      "Budget tool to calculate shopping costs, including VAT (IVA) percentages",
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/MarkusBeep",
     link: "https://markusbeep.github.io/cotizaciones/",
@@ -135,7 +135,7 @@ export const portfolioWebs: WebProject[] = [
 export interface SkillProficiency {
   name: string;
   level: number;
-  label: "Begginer" | "Expert" | "Advanced" | "Intermediate";
+  label: "Beginner" | "Expert" | "Advanced" | "Intermediate";
 }
 
 export const skillProficiency: SkillProficiency[] = [
@@ -143,5 +143,5 @@ export const skillProficiency: SkillProficiency[] = [
   { name: "JavaScript", level: 88, label: "Expert" },
   { name: "WordPress", level: 82, label: "Advanced" },
   { name: "React", level: 65, label: "Intermediate" },
-  { name: "TypeScript", level: 20, label: "Begginer" },
+  { name: "TypeScript", level: 20, label: "Beginner" },
 ];

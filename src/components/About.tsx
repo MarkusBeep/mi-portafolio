@@ -54,11 +54,11 @@ export const About = () => {
               </p>
               <p>
                 My name is Marcos Herrera. Apart from my passion for coding, I
-                have more talents like music production and piano performance.
+                have other talents, such as music production and piano performance.
               </p>
               <p>
-                Pasionate for clean coding, and well-structured typing. Very
-                aware of the interface designing, and always aiming at customer
+                Passionate about clean code and well-structured typing. Very
+                attentive to interface design, and always aiming for customer
                 satisfaction.
               </p>
             </div>
